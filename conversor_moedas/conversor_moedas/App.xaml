@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="conversor_moedas.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="botao" TargetType="Button">
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="Margin" Value="0, 10, 0, 10"/>
+            </Style>
+            <Style x:Key="botaoPrincipal" TargetType="Button" BasedOn="{StaticResource botao}">
+                <Setter Property="BackgroundColor" Value="SteelBlue" />
+            </Style>
+            <Style x:Key="botaoSecundario" TargetType="Button" BasedOn="{StaticResource botao}">
+                <Setter Property="BackgroundColor" Value="LightBlue" />
+            </Style>
+            <Style x:Key="lblTitulos" TargetType="Label">
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="FontSize" Value="Medium"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="SteelBlue"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="Margin" Value="5"/>
+            </Style>
+            <Style x:Key="lblRespostas" TargetType="Label">
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="FontSize" Value="26"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="MediumPurple"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="Margin" Value="5"/>
+            </Style>
+            <Style x:Key="txtValores" TargetType="Entry">
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="FontSize" Value="Medium"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="CornflowerBlue"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="Margin" Value="5"/>
+                <Setter Property="Keyboard" Value="Numeric"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

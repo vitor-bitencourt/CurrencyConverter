@@ -1,0 +1,29 @@
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\bin\Debug\netstandard2.0\conversor_moedas.deps.json
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\bin\Debug\netstandard2.0\conversor_moedas.dll
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\bin\Debug\netstandard2.0\ref\conversor_moedas.dll
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\bin\Debug\netstandard2.0\conversor_moedas.pdb
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.AssemblyInfo.cs
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.dll
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\ref\conversor_moedas.dll
+C:\Users\vitor\Documents\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.pdb
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\bin\Debug\netstandard2.0\conversor_moedas.deps.json
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\bin\Debug\netstandard2.0\conversor_moedas.dll
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\bin\Debug\netstandard2.0\conversor_moedas.pdb
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.csproj.AssemblyReference.cache
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.AssemblyInfoInputs.cache
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.AssemblyInfo.cs
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.csproj.CoreCompileInputs.cache
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.dll
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\refint\conversor_moedas.dll
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\conversor_moedas.pdb
+D:\Backup 2021\1\Documentos\C#\conversor_moedas\conversor_moedas\conversor_moedas\obj\Debug\netstandard2.0\ref\conversor_moedas.dll
